@@ -1,0 +1,2 @@
+# SpringBootTopicApp
+![PlantUML model](http://www.plantuml.com/plantuml/png/5Sl13S8m30NGLM21Mke5YHki00i4rseZdFZBiOMoFUgxlsljhBb9kbwE28mxaPVVijSuyfD3dAs7z5ZO6itlUblf1QzzVvh5sr3v0L0h8yG9MdWJgCrs5cJJFm00)
